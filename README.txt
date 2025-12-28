@@ -1,6 +1,6 @@
 E-COMMERCE RECOMMENDATION SYSTEM USING COLLABORATIVE FILTERING
 
-1. INTRODUCTION
+# 1. INTRODUCTION
 In modern e-commerce platforms, users are exposed to a very large number of products, making it difficult for them to find relevant items quickly. Recommendation systems solve this problem by analyzing user behavior and suggesting products that match user preferences. These systems improve user experience, increase customer engagement, and increase sales.
 
 This project implements an E-commerce Recommendation System using Collaborative Filtering techniques. The system recommends products to users based on historical user–item interaction data. Two collaborative filtering approaches are used:
